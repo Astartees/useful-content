@@ -1,0 +1,3 @@
+Fonts I use is used on cardano's website.
+I'll join the font file here - although it's not exactly the one used by astarter.
+Its name Chivo. Mostly the "light" and "regular" variants. 
